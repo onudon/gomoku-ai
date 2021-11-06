@@ -1,2 +1,2 @@
 # gomoku-ai
-ゴミ
+GOMOKU AI !!!
