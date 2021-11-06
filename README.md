@@ -1,2 +1,2 @@
 # gomoku-ai
-gomoku AI is atama okasii
+gomoku AI is atama okasii.
